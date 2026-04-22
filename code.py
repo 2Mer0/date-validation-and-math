@@ -88,5 +88,4 @@ def age_in_days(year, month, day):
 
 
 if __name__ == "__main__":
-    # Example: Calculate age in days for a birthday
-    print(age_in_days(1990, 5, 15))  # Replace with actual values
+    print(age_in_days(2005, 9, 10))
